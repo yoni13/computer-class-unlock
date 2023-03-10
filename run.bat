@@ -25,3 +25,4 @@ taskkill /f /im RemoteDesk64.exe
 cd C:\Program Files (x86)
 
 echo y|rmdir /s TeamSoftEx
+taskkill /f /im studentmain.exe
