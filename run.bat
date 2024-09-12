@@ -27,3 +27,4 @@ cd C:\Program Files (x86)
 echo y|rmdir /s TeamSoftEx
 taskkill /f /im studentmain.exe
 taskkill /f /im ScreenRender.exe
+taskkill /f /im Student.exe
